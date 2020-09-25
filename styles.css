@@ -3,6 +3,9 @@ body{
   background-color: black;
   text-align: center;
 }
+p{
+  font-family: 'Fredoka One', cursive;
+}
 .head{
   position: relative;
   width:150px;
